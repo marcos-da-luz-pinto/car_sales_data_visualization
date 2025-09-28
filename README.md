@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este projeto consiste em uma Análise Exploratória de Dados (EDA) utilizando um *mock dataset* de vendas de carros usados. O objetivo principal é visualizar a relação entre as características do veículo (idade, uso, motor e combustível) e o seu preço final de venda.
+Este projeto consiste em uma Análise Exploratória de Dados (EDA) utilizando um *dataset* de vendas de carros usados disponibilizado no Kaggle. O objetivo principal é visualizar a relação entre as características do veículo (idade, uso, motor e combustível) e o seu preço final de venda.
 
 A análise utiliza técnicas de visualização de dados (Box Plots, Gráficos de Dispersão e Mapas de Calor) para extrair *insights* valiosos sobre os fatores que impulsionam ou depreciam o valor de um automóvel no mercado secundário.
 
